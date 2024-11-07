@@ -31,4 +31,3 @@ function saveExperience(counter) {
     // Save or display the new experience details
     alert(`Saved Experience: ${company}, ${role}, ${duration}`);
 }
-
