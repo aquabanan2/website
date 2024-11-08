@@ -3,13 +3,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #00008B;
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 header {
-    background-color: #333;
-    color: #00008B;
+    background-color: #00008B;
+    color: #000000;
     padding: 10px;
     text-align: center;
 }
@@ -36,7 +36,7 @@ nav ul li a {
 section {
     padding: 20px;
     margin: 10px;
-    background-color: #00008B;
+    background-color: #FFFFFF;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
